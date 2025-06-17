@@ -1,4 +1,4 @@
-# DynamicTextView
+# DynamicTextView or DynamicTextEditor
 Dynamic height TextView with placehoder, pure SwiftUI, not UIKit.UITextView wrapper. 
 - default height, no text
 
